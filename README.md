@@ -7,3 +7,4 @@ Chore schedule to display on our TV at ![🅱️](https://static.xx.fbcdn.net/im
 * `npm install`
 * `npm start`
 * visit http://localhost:3000/
+
