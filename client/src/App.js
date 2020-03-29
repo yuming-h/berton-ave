@@ -3,7 +3,7 @@ import { Header, Icon, Grid, Card } from 'semantic-ui-react';
 import Clock from 'react-live-clock';
 import axios from "axios";
 
-const BACKEND_URL = "http://localhost:8080";
+const BACKEND_URL = "http://35.199.189.107:8080";
 
 const PRIMARY_COLOR = '#4E80A2';
 const SECOND_COLOR = '#4E80A2';
